@@ -9,7 +9,7 @@ I've been using [jrnl](http://maebert.github.io/jrnl/) in the past but I didn't 
 interesting to share those thoughts with other people as well.
 
 I wanted to be able to edit the blog using a simple setup using stuff I am already familiar with like Markdown formatting and Vim.
-Then I remembered about [Jekyll](http://jekyllrb.com) from my brief encounter with the Ruby ecosystem (I nowadays mostly code in NodeJS and Python).
+Then I remembered about [Jekyll](http://jekyllrb.com) from my brief encounter with the Ruby ecosystem (I nowadays mostly code in Nodejs and Python).
 I did a quick local setup and realized by reading the documentation that it was natively supported by [GitHub Pages](https://pages.github.com/)
 so I jumped on the occasion since I wasn't too keen on setting up a dedicated hosting system for this
 (eventhough I have a weird obsession for tinkering with servers).

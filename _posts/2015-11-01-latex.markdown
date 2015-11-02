@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "LaTeX"
+date:   2015-11-01 22:10:50
+categories: update
+---
+Today, I felt like my résumé deserved an update. I haven't modified it for a year, and a lot changed in my life since last time I had the chance to edit it. I moved back to Montreal (from Taiwan), had an internship at Busbud and got hired there for my first full-time job so this was a long overdue. Okay, actually the main reason was that I stumbled upon [mrzool's cv-boilerplate repository](https://github.com/mrzool/cv-boilerplate) on GitHub and really wanted to try it. I first used LaTeX when I was in Business School and needed to produce beautiful documents for my mathematics-related classes.
+
+LaTeX has a few advantages more over traditional word processing softwares:
+
+* Its typesetting is gorgeous (and I'm a big typography fan)
+* I can use my familiar Vim setup with it (which means more productivity)
+* It works well with advanced features such as: mathematical equations, references...
+* and it's open source!
+
+Unfortunately I didn't have any excuses to use it since my amazing R programming class at National Chengchi University so this seemed like a good fit. cv-boilerplate uses Pandoc to convert a YAML file that contains all the content, to a PDF file using XeTeX through a .tex template. The result is a beautiful CV that you can easily edit, regenerate... I did have to change a few things in the original cv-boilerplate's template to fit my needs, but it saved me a lot of time since I didn't need to start from scratch. I would have also probably directly wrote my content in the .tex file. Having a separate .yaml file for the content makes it easier to format and maintain.
