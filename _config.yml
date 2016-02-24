@@ -2,11 +2,11 @@
 title: Damien's blog
 #email: damien.gonot@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hi, I'm Damien, a 22 years old webmarketer.
+  Hi, I'm Damien
 summary: >
-  Welcome! My name is Damien, I'm 22 years old and I currently live in Montréal, Québec.
+  Welcome! My name is Damien, I'm 23 years old and I currently live in Montréal, Québec
+  (at the time of writing).
   I also currently work at Busbud as a Customer Acquisition Associate.
-  This basically means that I am a SEM nerd.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://mewfree.github.io" # the base hostname & protocol for your site
 #twitter_username: mewfree
